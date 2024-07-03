@@ -9,7 +9,7 @@
 #### 1. Клонируйте репозиторий:
 
 ```
-git clone https://github.com/ChaVi6/spacecraft.git
+git clone https://github.com/ChaVi6/Spacecraft.git
 ```
 
 #### 2. Установите необходимые пакеты:
